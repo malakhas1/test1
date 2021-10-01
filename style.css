@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7) , url(09.jpg));
+    background-size: cover;
+    background-position:center;
+    position: relative;
+}
+  .page1{
+
+  width: 1400px; height: 700%;
+  }
+  img{
+      width: 1000px;
+      height: 600px;
+      margin-left: 200px;
+      display:flex;
+     justify-content: center;
+     align-items: center;
+    }
+ body{
+     background-color: #061017;
+ } 
+ header{
+     height: 100px;
+     width: 1000px;
+     margin-left: 200px;
+      
+     background-color: aqua;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     
+ }  
